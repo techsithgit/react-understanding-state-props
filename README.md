@@ -3,9 +3,9 @@
 
 from the command prompt clone the project
 
-*$git clone https://github.com/techsithgit/react-understanding-state-props.git
-*$cd react-understanding-state-props
-*$npm install
-*$npm start
+* $git clone https://github.com/techsithgit/react-understanding-state-props.git
+* $cd react-understanding-state-props
+* $npm install
+* $npm start
 
-[Watch Video](https://youtube.com/techsithtube).
+[Watch the Tutorial](https://youtube.com/techsithtube).
